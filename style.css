@@ -1,0 +1,32 @@
+/*
+
+        PALETA DE CORES
+            #a6504b
+            #de996b
+            #fceecd
+            #7ac4cd
+            #7ac4cd
+
+*/
+
+body {
+    background-color: #a6504b;
+}
+
+h1 {
+    color: #fceecd;
+}
+
+ul, ol {
+    list-style-type: none;
+}
+
+.recipe-link {
+    color: #fceecd;
+    text-decoration: none;
+}
+
+.recipe-link:hover {
+    color: #de996b;
+    text-transform:uppercase;
+}
